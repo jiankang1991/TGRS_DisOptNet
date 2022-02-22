@@ -1,0 +1,13 @@
+pip>=19.0.3
+albumentations==0.4.3
+numpy>=1.17.3
+torch==1.7.1
+torchvision==0.8.2
+scikit-image>=0.16.2
+scipy>=1.3.2
+tqdm>=4.40.0
+argparse
+datetime
+tensorboardX
+imagecodecs
+segmentation-models-pytorch
