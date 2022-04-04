@@ -24,11 +24,11 @@ This repo contains the codes for the TGRS paper: [DisOptNet: Distilling Semantic
 
 ```
 @article{kang2021RiDe,
-  title={},
-  author=},
+  title={DisOptNet: Distilling Semantic Knowledge from Optical Images for Weather-independent Building Segmentation},
+  author={Kang, Jian and Wang, Zhirui and Zhu, Ruoxin and Xia, Junshi and Sun, Xian and Fernandez-Beltran, Ruben and Plaza, Antonio},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
-  year={},
-  note={}
+  year={2022},
+  note={DOI:10.1109/TGRS.2022.3165209}
   publisher={IEEE}
 }
 ```
