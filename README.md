@@ -11,6 +11,10 @@ This repo contains the codes for the TGRS paper: [DisOptNet: Distilling Semantic
 <img src="pics/framework.png" alt="drawing"/>
 </p>
 
+## Data
+
+We use the [SpaceNet6 dataset](https://spacenet.ai/sn6-challenge/) in the paper. The dataset preparation is based on the [SpaceNet6 baseline repo](https://github.com/CosmiQ/CosmiQ_SN6_Baseline).
+
 ## Usage
 
 ```
