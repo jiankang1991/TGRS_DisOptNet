@@ -24,6 +24,12 @@ We use the [SpaceNet6 dataset](https://spacenet.ai/sn6-challenge/) in the paper.
 ./run_st2.sh
 ```
 
+## Model weights
+
+[DisOptNet-B4](https://drive.google.com/drive/folders/1QLyEPgiOaVn42zcXVv0qSQBeIz0jEGQ4?usp=sharing)
+
+[DisOptNet-B3](https://drive.google.com/drive/folders/1RxWf7VE4BNAtDC7RQH7bkhujE9qh2gQu?usp=sharing)
+
 ## Citation
 
 ```
