@@ -15,6 +15,11 @@ This repo contains the codes for the TGRS paper: [DisOptNet: Distilling Semantic
 
 We use the [SpaceNet6 dataset](https://spacenet.ai/sn6-challenge/) in the paper. The dataset preparation is based on the [SpaceNet6 baseline repo](https://github.com/CosmiQ/CosmiQ_SN6_Baseline).
 
+```bash
+|-- data
+    |-- train.csv, valid.csv # sar train and validation tiles
+    |-- opticaltrain.csv, opticalvalid.csv # optical train and validation tiles
+```
 ## Usage
 
 ```
